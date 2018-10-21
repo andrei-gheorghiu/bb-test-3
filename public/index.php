@@ -13,7 +13,7 @@
     <link rel="icon" type="image/png" href="./favicon.ico?v=andrei-gheorghiu">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
-    <style>.\31\/\33 {min-height: 33.33vh}</style>
+    <style>.\31\/\33 {height: 33.33vh}</style>
 </head>
 <body>
 <?php

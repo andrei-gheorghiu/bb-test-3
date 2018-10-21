@@ -3,4 +3,5 @@
 !.gitignore
 !readme.md
 !package.json
+!package-lock.json
 !GruntFile.js
